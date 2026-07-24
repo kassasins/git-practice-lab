@@ -9,7 +9,7 @@ You do not need prior Git skills. Start at Challenge 01 and move forward. Each c
 ### 1. Clone this repo
 
 ```bash
-git clone git@github.com:kassasins/git-practice-lab.git
+git clone https://github.com/kassasins/git-practice-lab.git
 cd git-practice-lab
 ```
 
